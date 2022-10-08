@@ -1,4 +1,4 @@
-// https://replit.com/@MonguDykrai/golangfor-loop#main.go
+// https://replit.com/@MonguDykrai/golangdefinite-loop#main.go
 // https://freshman.tech/snippets/go/check-type-of-value/
 // https://www.socketloop.com/tutorials/golang-how-to-convert-character-to-ascii-and-back
 // https://www.codecademy.com/courses/learn-go-loops-arrays-maps-and-structs/lessons/go-loops/exercises/the-classic-for-loop
